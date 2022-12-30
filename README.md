@@ -1,6 +1,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## TNBoT Md Whatsapp Bot
-Hermit-md - Simple whatsapp Multi Device bot based on @adiwajshing/baileys
+TNBoT-md - Simple whatsapp Multi Device bot based on @adiwajshing/baileys
 
 ***
 
@@ -8,13 +8,13 @@ Hermit-md - Simple whatsapp Multi Device bot based on @adiwajshing/baileys
 
 1. Scan the QR.
     <br>
-<a href='https://baileys-md-qr.herokuapp.com/deployment' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://baileys-md-qr.herokuapp.com/deployment' target="_blank"><img alt='SCAN QR CODE NOW' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 ***
 
-2. If You don't have a account in Heroku Create a account.
-    <br>
-<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+# If You don't have a any accounts. Please Create a account.
+
+
 
 ***
 
