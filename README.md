@@ -22,7 +22,7 @@ Hermit-md - Simple whatsapp Multi Device bot based on @adiwajshing/baileys
     <br>
 <a href='https://baileys-md-qr.herokuapp.com/deploy' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/OfBG4v?referralCode=FCPg-T)
-
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/TNGamerk1/hermit-md&branch=main&name=tngamerk1)
 ***
 * Join Group For Help
 <a href="https://chat.whatsapp.com/LOMGBEO2i9vKew562o1LFk"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-black?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
