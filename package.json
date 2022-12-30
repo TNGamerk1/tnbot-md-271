@@ -1,7 +1,7 @@
 {
-   "name": "Hermit-md",
+   "name": "TNBoT-MD",
    "version": "4.3.1",
-   "description": "Hermit-md - Simple whatsapp Multi Device bot based on @adiwajshing/baileys.",
+   "description": "TNBoT-MD - Simple whatsapp Multi Device bot based on @tngamerk1/baileys.",
    "main": "index.js",
    "scripts": {
       "start": "pm2 start . --attach --name ⛦"
