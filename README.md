@@ -1,6 +1,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## TNBoT Md Whatsapp Bot
-TNBoT-md - Simple whatsapp Multi Device bot based on @adiwajshing/baileys
+TNBoT-md - Simple whatsapp Multi Device bot based on @tngamerk1/baileys
 
 ***
 
