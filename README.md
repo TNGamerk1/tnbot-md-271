@@ -21,7 +21,7 @@ Hermit-md - Simple whatsapp Multi Device bot based on @adiwajshing/baileys
 3. Now Deploy
     <br>
 <a href='https://baileys-md-qr.herokuapp.com/deploy' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
-
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/OfBG4v?referralCode=FCPg-T)
 
 ***
 * Join Group For Help
