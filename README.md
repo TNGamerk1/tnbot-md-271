@@ -25,6 +25,6 @@ TNBoT-md - Simple whatsapp Multi Device bot based on @adiwajshing/baileys
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/TNGamerk1/hermit-md&branch=main&name=tngamerk1)
 ***
 * Join Group For Help
-<a href="https://chat.whatsapp.com/LOMGBEO2i9vKew562o1LFk"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-black?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://chat.whatsapp.com/EZ5h4MWwC0hGzUd15TXZtJ"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-black?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
